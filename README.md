@@ -8,7 +8,7 @@
 - **NIM:** H1D024062
 - **Shift Awal:** Shift B
 - **Shift Akhir:** Shift C
-- **Link Video Penjelasan:** [YouTube](https://youtu.be/LINK_VIDEO)
+- **Link Video Penjelasan:** [https://youtu.be/06eDPMOQC8M](https://youtu.be/06eDPMOQC8M)
 
 ---
 
